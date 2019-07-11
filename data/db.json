@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mah-Server-Name",
+      "display_name": "Severe",
+      "description": "holy moly batman its a server"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "food",
+      "name": "sunscreen",
+      "display_name": "alf",
+      "description": "happy fuzzy dude"
+    }
+  ]
+}
