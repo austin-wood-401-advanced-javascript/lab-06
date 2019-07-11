@@ -1,17 +1,17 @@
-# LAB - 03
+# LAB - 06
 
-## Lab -03
+## Lab -06
 
 ### Author: Austin Wood
 
 ### Links and Resources
-* [submission PR](https://github.com/austin-wood-401-advanced-javascript/lab-02/pull/2) 
-* [travis]([![Build Status](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-03.svg?branch=first-branch)](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-03))
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/austin-wood-401-advanced-javascript/simple-api/pull/2) 
+* [travis](None)
+* [back-end](localhost:3000) (when applicable)
+* [front-end](https://codesandbox.io/s/api-client-zy1o8) (when applicable)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
+* [api docs](localhost:3000) (API servers)
 * [jsdoc](http://xyz.com) (Server assignments)
 * [styleguide](http://xyz.com) (React assignments)
 
