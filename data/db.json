@@ -10,8 +10,8 @@
   "products": [
     {
       "id": 1,
-      "category": "food",
-      "name": "sunscreen",
+      "category": "Mah-Server-Name",
+      "name": "Alf",
       "display_name": "alf",
       "description": "happy fuzzy dude"
     }
